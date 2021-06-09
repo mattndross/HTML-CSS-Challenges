@@ -30,9 +30,9 @@ Change the heading of this section to ‘Tiger Facts’, remove the subheading, 
 
 ## 4) Giraffes
 
-Change the background colour to #483C46, the section titles to #F4743B, and the paragraph color to #BEEE62.
+Change the background colour to #483C46, the section titles to #F4743B, and the paragraph color to #BEEE62. **DONE**
 
-Make the first paragraph have a larger font size.
+Make the first paragraph have a larger font size. **DONE**
 
 ## 5) News
 
