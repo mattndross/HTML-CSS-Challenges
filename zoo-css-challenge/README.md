@@ -58,9 +58,9 @@ Make sure all the links open in a new tab.**DONE**
 
 ## 9) Badge
 
-The badge that says ‘Opening 2021’ we’d like to be on the top right instead of the bottom right.
+The badge that says ‘Opening 2021’ we’d like to be on the top right instead of the bottom right. **DONE**
 
-When a user hovers over the badge, add a transition so the change in colour is smoother.
+When a user hovers over the badge, add a transition so the change in colour is smoother. **DONE**
 
 ## 10) New section
 
