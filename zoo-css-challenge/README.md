@@ -8,19 +8,19 @@ You are encouraged to use Google to help you find the answers to these problems.
 
 ## 1) Introduction
 
-First of all, we don’t want the logo to have a purple border. The logo has an ID of logo, make sure this has no border. **CHECKED**
+First of all, we don’t want the logo to have a purple border. The logo has an ID of logo, make sure this has no border. **DONE**
 
-The first section has a class name of ‘introduction’. Give this section a white background.**CHECKED** Add a paragraph to this section with the following text:
+The first section has a class name of ‘introduction’. Give this section a white background.**DONE** Add a paragraph to this section with the following text:
 
-‘The zoo is open every day of the year and features three major biomes: the Tropic Zone, Temperate Territory, and the Polar Circle. From tropical birds, to snow leopards, grizzly bears, and one of the nation’s largest colonies of Antarctic penguins, there are animals to enjoy in every season.’ **CHECKED**
+‘The zoo is open every day of the year and features three major biomes: the Tropic Zone, Temperate Territory, and the Polar Circle. From tropical birds, to snow leopards, grizzly bears, and one of the nation’s largest colonies of Antarctic penguins, there are animals to enjoy in every season.’ **DONE**
 
 Most of the text on the page is very close together. Increase the amount of space of the text so that there's more breathing space. **TO DO LATER**
 
 ## 2) Bears:
 
-All the images of bears have the same border colour, can all these images be given a different border colour?
+All the images of bears have the same border colour, can all these images be given a different border colour? **DONE**
 
-The images of the bears are also misaligned. Can all these images be vertically aligned to the top of the container.
+The images of the bears are also misaligned. Can all these images be vertically aligned to the top of the container. **DONE**
 
 ## 3) Tigers
 
