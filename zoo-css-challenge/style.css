@@ -154,6 +154,15 @@ footer {
   color: #F4743B;
 }
 
+/* TRASH PANDA*/
+.trash-panda {
+  background: #552b4e;
+  color: #f0e100;  
+}
+.trash-panda h2, .trash-panda h3 {
+  color: #D6BFF8;
+}
+
 /* NEWS SECTION */
 
 .news h2 {
