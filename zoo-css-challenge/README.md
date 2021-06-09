@@ -36,9 +36,9 @@ Make the first paragraph have a larger font size. **DONE**
 
 ## 5) News
 
-Can the title of this section be centred in the middle of this page?
+Can the title of this section be centred in the middle of this page? **DONE**
 
-Add another news item with the title with today's date, and the title of ‘Which big cat are you?’
+Add another news item with the title with today's date, and the title of ‘Which big cat are you?’ **DONE** 
 
 ## 6) Learning
 

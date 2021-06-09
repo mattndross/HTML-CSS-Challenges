@@ -152,6 +152,11 @@ footer {
   color: #F4743B;
 }
 
+/* NEWS SECTION */
+
+.news h2 {
+  text-align: center;
+}
 
 .card {
   display: inline-block;
