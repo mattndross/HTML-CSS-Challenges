@@ -1,5 +1,6 @@
 * {
   font-family: sans-serif;
+  
 }
 
 header {
@@ -12,6 +13,11 @@ header {
 nav {
   display: inline-block;
   width: 100%;
+}
+
+/* LOGO */
+#logo {
+  border: none;
 }
 
 header ul {
@@ -74,8 +80,9 @@ footer {
   display: flex;
   justify-content: space-between;
 }
-
+/*  WHITE BACKGROUND */
 .introduction {
+  background: white;
 }
 
 #badge {
