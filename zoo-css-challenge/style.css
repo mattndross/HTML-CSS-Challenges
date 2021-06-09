@@ -198,6 +198,7 @@ footer {
   background-color: rgba(255, 255, 255, 0.75);
   padding: 50px;
   max-width: 400px;
+  border-radius: 20px;
 }
 
 .education-container h3,
@@ -205,6 +206,14 @@ footer {
   margin-bottom: 1em;
 }
 
+.education-container button {
+  font-size: 150%;
+}
+
+.education-container button:focus,
+.education-container button:hover {
+  background-color: #453875;
+}
 /*Membership*/
 
 .membership {

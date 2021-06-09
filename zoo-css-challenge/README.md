@@ -42,9 +42,9 @@ Add another news item with the title with today's date, and the title of ‘Whic
 
 ## 6) Learning
 
-The buttons are a little hard to read. We’d like the buttons to have larger text, and also to change colour when you hover and focus on them.
+The buttons are a little hard to read. We’d like the buttons to have larger text, and also to change colour when you hover and focus on them. **DONE**
 
-We don’t like the hard corners here. Can you give the container in the section some rounded corners?
+We don’t like the hard corners here. Can you give the container in the section some rounded corners? **DONE**
 
 ## 7) Membership
 
