@@ -81,6 +81,7 @@ footer {
   display: flex;
   justify-content: space-between;
 }
+
 /*  WHITE BACKGROUND */
 .introduction {
   background: white;
@@ -130,6 +131,11 @@ footer {
 .tigers {
   background-color: #0b3c49;
   color: #f0e100;
+}
+
+/* HEADING COLOR */
+.tigers h2 {
+  color: #D6BFF8
 }
 
 .giraffe {
