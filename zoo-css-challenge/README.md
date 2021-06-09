@@ -48,13 +48,13 @@ We don’t like the hard corners here. Can you give the container in the section
 
 ## 7) Membership
 
-Give the paragraph a maximum width of 700 pixels, and keep in the middle by adjusting the margin.
+Give the paragraph a maximum width of 700 pixels, and keep in the middle by adjusting the margin. **DONE**
 
 ## 8) Programs
 
-The cards are stacked on top of each other which looks like a poor use of space. Change these so that they display horizontally across the screen.
+The cards are stacked on top of each other which looks like a poor use of space. Change these so that they display horizontally across the screen. **DONE**
 
-Make sure all the links open in a new tab.
+Make sure all the links open in a new tab.**DONE**
 
 ## 9) Badge
 
