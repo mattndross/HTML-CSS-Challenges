@@ -1,0 +1,2 @@
+-'Increase the amount of space of the text so that there's more breathing space'. Should I add spacing beteween words? only in the introduction section or the whole page?
+-should I change the color of ALL the heading or only the tiger heading?

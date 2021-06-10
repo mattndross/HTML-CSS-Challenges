@@ -87,6 +87,10 @@ footer {
   background: white;
 }
 
+/* ADDS MORE SPACE BETWEEN WORDS */
+.introduction p {
+  word-spacing: 2px;
+}
 #badge {
   height: 120px;
   width: 120px;

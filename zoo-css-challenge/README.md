@@ -14,7 +14,7 @@ The first section has a class name of ‘introduction’. Give this section a wh
 
 ‘The zoo is open every day of the year and features three major biomes: the Tropic Zone, Temperate Territory, and the Polar Circle. From tropical birds, to snow leopards, grizzly bears, and one of the nation’s largest colonies of Antarctic penguins, there are animals to enjoy in every season.’ **DONE**
 
-Most of the text on the page is very close together. Increase the amount of space of the text so that there's more breathing space. **TO DO LATER**
+Most of the text on the page is very close together. Increase the amount of space of the text so that there's more breathing space. **DONE ONLY IN THE INTRODUCTION SECTION**
 
 ## 2) Bears:
 
